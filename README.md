@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I’m @R4F43LL-D3VB3GINN3R.<br><br>👀 I’m currently enrolled in a programming course and learning various languages such as C, SQL, PHP, Visual Basic, and Python. However, I am primarily focusing on Sap-Abap, where I intend to specialize.<br><br>💞️ I’m looking to collaborate on open-source projects to enhance my programming skills and contribute to the developer community.<br><br>📫 You can reach me via email at rafalbuquerquecra@gmail.com or find me on LinkedIn at [https://www.linkedin.com/in/rafael-albuquerque-b8606a272/].
+My Portfolio: https://rafael-albuquerque-projekts.netlify.app/
 
 
 ## 🌐 Socials:
